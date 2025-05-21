@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Deepak Labade</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A Passionate Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepaklabade&label=Profile%20views&color=0e75b6&style=flat" alt="deepaklabade" /> </p>
 
-- 💬 Ask me about **Mern**
+### 🚀 About Me
 
-- 📫 How to reach me **deepaklabade001@gmail.com**
+- 🔭 Currently working on **homely bites** & **GIG-Connect**
+- 🌱 Learning **DEV-OPS** & **NEXTJS**
+- 👨💻 All projects available at my portfolio
+- 📫 Reach me **deepaklabade001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
